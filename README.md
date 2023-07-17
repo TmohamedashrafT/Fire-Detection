@@ -1,1 +1,1 @@
-# Fire-classification
+# Fire-Detection
